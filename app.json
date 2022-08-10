@@ -1,0 +1,13 @@
+{
+  "expo": {
+    "name": "fatec",
+    "slug": "fatec",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "sdkVersion": "45.0.0",
+    "entryPoint": ".vscode\\exponentIndex.js"
+  },
+  "name": "fatec"
+}
